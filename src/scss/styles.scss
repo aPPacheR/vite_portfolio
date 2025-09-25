@@ -1,0 +1,14 @@
+// Import all of Bootstrap's CSS
+@import "bootstrap/scss/bootstrap";
+
+body {
+    background-color: rgb(5, 65, 80);
+    color: #d4d4d4;
+}
+.accent {
+    color: #0dd8c4;
+}
+.card {
+    background-color: #0e5f78;
+    border: none;
+}
